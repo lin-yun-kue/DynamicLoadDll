@@ -1,0 +1,4 @@
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\PluginInterface\bin\Debug\PluginInterface.dll
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\PluginInterface\obj\Debug\PluginInterface.dll
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\PluginInterface\obj\Debug\PluginInterface.pdb

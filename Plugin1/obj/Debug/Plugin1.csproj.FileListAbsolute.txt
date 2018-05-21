@@ -1,0 +1,7 @@
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\bin\Debug\Plugin1.dll
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\bin\Debug\Plugin1.pdb
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\bin\Debug\PluginInterface.dll
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\bin\Debug\PluginInterface.pdb
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\obj\Debug\Plugin1.dll
+D:\Project\DynamicLoadDLL\DynamicLoadDLL\Plugin1\obj\Debug\Plugin1.pdb
